@@ -107,7 +107,6 @@ Updating is like installing the modlist. You only have to make sure that you sel
 <details>
 <summary><h2>Important mods</h2></summary>
 
-Further annotated in-depth in the [key mod/configuration guide](https://github.com/Camora0/Wasteland-Reborn/blob/main/KEY_FEATURES.md).
 
 ### Gameplay
 
