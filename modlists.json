@@ -1,7 +1,7 @@
 [
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
-    "title": "Dying_Breath",
+    "title": "DyingBreath",
     "description": "A Vibrant Fallout 4 overhaul adding new gameplay mechanics with new weapons and armor for a fresh lore friendly experience.",
     "author": "<OddlyMistaken>",
     "maintainers": [
@@ -18,8 +18,8 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "<https://raw.githubusercontent.com/OddlyMistaken/Dying-Breath/main/Vault%20111.webp>",
       "readme": "<https://github.com/OddlyMistaken/Dying-Breath>",
-      "download": "https://authored-files.wabbajack.org/Dying%20Breath.wabbajack_4313b312-6d45-41ec-b3b9-acef4e205451",
-      "machineURL": "dying_breath",
+      "download": "https://authored-files.wabbajack.org/DyingBreath.wabbajack_d30cbddb-1c18-4a02-a4da-90251f9f3e77",
+      "machineURL": "dyingbreath",
       "discordURL": "<https://discord.gg/T3XQky6g9c>"
     },
     "download_metadata": {
