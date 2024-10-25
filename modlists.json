@@ -1,0 +1,37 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Dying Breath",
+    "description": "A Vibrant Fallout 4 overhaul adding new gamplay mechanics with new weapons and armor for a fresh lore friendly experience.",
+    "author": "<OddlyMistaken>",
+    "maintainers": [
+      "github/<OddlyMistaken>"
+    ],
+    "game": "Fallout4",
+    "tags": [
+      "testing",
+      "<any tags you want in the UI, each in its own string"
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "<https://raw.githubusercontent.com/OddlyMistaken/Dying-Breath/refs/heads/main/gas-mask.ico>",
+      "readme": "<https://github.com/OddlyMistaken/Dying-Breath>",
+      "download": "https://authored-files.wabbajack.org/Dying%20Breath.wabbajack_4313b312-6d45-41ec-b3b9-acef4e205451",
+      "machineURL": "machineURL",
+      "discordURL": "<https://discord.gg/T3XQky6g9c>"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "MZ3BPQSPLtw=",
+      "Size": 270132295,
+      "NumberOfArchives": 488,
+      "SizeOfArchives": 138304596471,
+      "NumberOfInstalledFiles": 49025,
+      "SizeOfInstalledFiles": 142192442191
+    },
+    "version": "1.0"
+  }
+]
