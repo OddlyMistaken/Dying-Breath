@@ -1,7 +1,7 @@
 [
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
-    "title": "Dying Breath",
+    "title": "Dying_Breath",
     "description": "A Vibrant Fallout 4 overhaul adding new gameplay mechanics with new weapons and armor for a fresh lore friendly experience.",
     "author": "<OddlyMistaken>",
     "maintainers": [
@@ -10,17 +10,16 @@
     "game": "Fallout4",
     "tags": [
       "testing",
-      "<any tags you want in the UI, each in its own string"
     ],
     "nsfw": false,
     "image_contains_title": false,
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "<https://raw.githubusercontent.com/OddlyMistaken/Dying-Breath/refs/heads/main/gas-mask.ico>",
+      "image": "<https://raw.githubusercontent.com/OddlyMistaken/Dying-Breath/main/Vault%20111.webp>",
       "readme": "<https://github.com/OddlyMistaken/Dying-Breath>",
       "download": "https://authored-files.wabbajack.org/Dying%20Breath.wabbajack_4313b312-6d45-41ec-b3b9-acef4e205451",
-      "machineURL": "machineURL",
+      "machineURL": "dying_breath",
       "discordURL": "<https://discord.gg/T3XQky6g9c>"
     },
     "download_metadata": {
