@@ -105,6 +105,13 @@ Updating is like installing the modlist. You only have to make sure that you sel
 </details>
 
 <details>
+<summary><h2> </h2>Known Issues<h2></summary>
+    
+If you experience the infinite loading screen on a new game, wait 30 secons then hit ENTER, you may also press to skip the loading screen.
+    
+</details>
+
+<details>
 <summary><h2>Important mods</h2></summary>
 
 
@@ -115,7 +122,11 @@ Updating is like installing the modlist. You only have to make sure that you sel
 
 
 ### New things
-+ 100s of new armors and weapons
++ All Armors and Clothes replaced for Base Game (DLCs in the works)
++ All Weapons replaced with lore friendly replacements
++ Custom Leveled List Distribution
++ New combat mechanics
++ Graphical Overhauls for most items
 
 
 </details>
