@@ -105,7 +105,7 @@ Updating is like installing the modlist. You only have to make sure that you sel
 </details>
 
 <details>
-<summary><h2> </h2>Known Issues<h2></summary>
+<summary><h2>Known Issues</h2></summary>
     
 If you experience the infinite loading screen on a new game, wait 30 secons then hit ENTER, you may also press to skip the loading screen.
     
