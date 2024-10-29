@@ -116,7 +116,14 @@ If you experience the infinite loading screen on a new game, wait 30 secons then
 
 
 ### Gameplay
-
++ New combat mechanics
+  + Better Locational Damage
+    + Add Bleed Damage and Pain DeBuffs
+      +
+  + Take Cover
+    + Favorite Take Cover item or run into a wall while looking up or down to enter cover, press W or use item to leave cover.
+    + 
+  + 
 
 ### Quests
 
@@ -125,7 +132,6 @@ If you experience the infinite loading screen on a new game, wait 30 secons then
 + All Armors and Clothes replaced for Base Game (DLCs in the works)
 + All Weapons replaced with lore friendly replacements
 + Custom Leveled List Distribution
-+ New combat mechanics
 + Graphical Overhauls for most items
 
 
