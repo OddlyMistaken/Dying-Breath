@@ -5,7 +5,7 @@ For help or discussion of Dying Breath, please join our discord - https://discor
 
 ## Summary
 
-A full, bottom up redesign of Fallout 4. Over 300 handpicked mods to transform Fallout 4 into the game it could have been. A whole new leveling system, new quests and locations, and hundreds of new weapons and armors replacing the originals. 
+A fresh experience of Fallout 4. A whole new leveling system,new combat mechanics, new quests and locations, and hundreds of new weapons and armors replacing the originals in a lore friendly manner. 
 
 ---
 
