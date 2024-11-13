@@ -16,7 +16,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/OddlyMistaken/Dying-Breath/main/Vault%20111.webp",
+      "image": "https://raw.githubusercontent.com/OddlyMistaken/Dying-Breath/main/Vault%20111.png",
       "readme": "https://github.com/OddlyMistaken/Dying-Breath",
       "download": "https://authored-files.wabbajack.org/DyingBreath.wabbajack_60684239-b2cd-40a1-98eb-fcf282e508a5",
       "machineURL": "dyingbreath",
