@@ -1,5 +1,5 @@
 # Dying Breath
-![alt text](https://raw.githubusercontent.com/OddlyMistaken/Dying-Breath/refs/heads/main/Vault%20111.webp)
+![alt text](https://raw.githubusercontent.com/OddlyMistaken/Dying-Breath/8e5c0d5273549b74e6364866e73a3bbd84a969ea/Vault%20111.png)
 
 For help or discussion of Dying Breath, please join our discord - https://discord.gg/yCn6yUqMqU
 
