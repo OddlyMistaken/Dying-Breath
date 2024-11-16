@@ -13,93 +13,93 @@ A fresh experience of Fallout 4. A whole new leveling system,new combat mechanic
 <summary><h2>Installation</h2></summary>
 
 ### Pre-Installation
+For the Installation of Dying Breath you must use the most recent version of Fallout 4 on steam and download all DLC's (expect the Hi-res Texture Pack)
 
-Do note that you MUST use ***FULL (ALL DLC, except high-res textures) LATEST*** Steam version of Fallout 4
-
-These steps are only needed if you are installing Dying Breath for the first time.
+**This is only a requirment for the first install not when updating.**
 
 #### Microsoft Visual C++ Redistributable Package
 
-You most likely already have this installed. The package is required for MO2, and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under "Visual Studio 2015, 2017 and 2019". [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if the other link doesn't work.
-
-#### Turn off Steam updates
-
-To turn off Steam automatically updating the game for you, head over to the Properties window, navigate to the _Updates_ tab and change _Automatic updates_ to _Only update this game when I launch it_.
-
-**This game does use a Stock Game Folder, so it should be fine in the event of an update, but it is still best practice to turn it off.**
+ Please make sure you have the latest Visual C++ installed. 
+ [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) 
 
 #### Cleaning Fallout 4
 
-It is highly recommended to uninstall the game through Steam, delete the game folder, and reinstall it. It is also recommended to delete the `Fallout4` folder in `Documents/My Games/`.
+Please uninstall Fallout 4 through Steam and delete the documents folder typically located at "Drive"\Documents\My Games\Fallout4. Once this is finished you may reinstall Fallout 4 and all included DLC's
+**(This list uses a stock game folder and will download the correct versions of all files)**
 
 #### Starting Fallout 4
 
-After you have done everything above and have a clean Fallout 4 game folder, start the Launcher and let it do the initial graphics check. Do not worry about this part, as the installation will replace these graphics settings, then Start Fallout 4. 
-
-Once the Main Menu has loaded you may exit. After doing this, do not play Fallout 4 again using the Launcher, as it will revert your .ini files and could mess up your settings.
+After Reinstalling Fallout 4 make sure to run the Game atleast once for the Graphics Check, hit play, and load the game to the main menu before closing and starting Wabbaajack
 
 ### Wabbajack
 
 #### Preparations
 
-Download the latest version of Wabbajack [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in a folder. This folder **must not** be in your Desktop, Downloads, or Program Files folder. It's best to create a Wabbajack folder at the root level, like `C:/Wabbajack.`
+Download the latest version of Wabbajack [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in a folder when unzipping at a root location such as **C:\Wabbajack** (This is the recommended installation method according to the wiki)
 
 #### Download and Installation
 
-The download and installation process may take a long time, depending on your system. To speed up this process it is advised to place the working folder on an SSD.
+The Process itself can take a while to speed this up you can put all files on an SSD (This is the reccomened and intended installation method for Dying Breath anyway.)
 
-1. Open Wabbajack.
-2. Click `Browse Modlists` then click the dropdown menu on top and select `Fallout 4` (don't forget to tick `Show Unofficial Lists`), and download Dying Breath from the Modlist Gallery.
-3. Set your download and installation paths. The recommended Installation Path is a blank folder at the root of a drive, such as C:\"Folder Name". The download path will update automatically. There's an option to put the download folder on another drive, for example an HDD, while the instance stays on an SSD.
-5. Then click the Go/Begin button.
-6. Wait for Wabbajack to finish. It may take awhile, depending on your internet speed and if you are using an SSD or HDD.
+_STILL WRITING INSTRUCTIONS FOR HOW TO INSTALL WITH WABBAJACK_
+**(These are from the WIKI https://wiki.wabbajack.org/user_documentation/Installing%20a%20Modlist.html)**
 
-While this is happening, the developer team suggests to download the mods that ***WILL*** cause issues later down the line if one does not download them before the end of the download phase *(these are linked below)*.
+    Open Wabbajack and Navigate to the Gallery
+    Decide on a List to install
+    Click the download button
+    Wait for the first download of the .wabbajack file to finish
+    When it is done click the play button where previously you had the download button
+    Open and read the specific readme of the list you are about to install
+    Download any third-party or external files before attempting to install the list
+    Select the paths for where the list should be installed
+        Installation Location: The location where the files required to play will be installed to
+            Can't be set to Wabbajack's Location
+            Can't be set to Game Location
+            Can't be the same as another list (lists can't be merged)
+            Can't be in a Windows OS managed folder (Examples include Program Files, Downloads, and the Desktop)
+    Download Location: The location where the downloaded archives are stored.
+        Can share the same location as the downloads folders of other lists (avoids duplicate downloads)
+        Don't merge download locations if you plan to create and share your own modlists, because Wabbajack can't really differentiate which archives are the ones it needs and which just have similar files.
+    Wait till Wabbajack is done
+    Go back to the readme (which will open automatically) and complete any final steps mentioned there
+
 
 #### Problems with Wabbajack
 
-If you run into download issues with Wabbajack, it is recommended to re-running Wabbajack before posting anything. Wabbajack will continue where it left off, so you will not have to start over.
+If you recieve lots of errors while downloading please relogin into Nexus through wabbajack and restart the application before requesting support from anywhere.
 
 #### Could not download...
 
-If you have issues with files not downloading, manually download the files and drop them inside of the Download folder, then re-run Wabbajack. Once Wabbajack detects the missing and failed to download files it will finish the setup process.
+If you have issues with files not downloading, manually download the files and drop them inside of the Download folder, then re-run Wabbajack. When Wabbajack detects the correct file it will resume installation. 
 
 </details>
 
 
 ### Saving on disk space ***(Highly OPTIONAL)***
 
-After a successful download deleting the ***downloads*** folder's content is safe. 
-Note: If the user does end up cleaning the folder, a redownload ***WILL*** be in order if they do end up deciding to update. As the modpack in the very first phase (open beta) expect to be bombarded with updates of any caliber.
+You may delete the downloads folder in the location you set during installion to save space. 
+**The only downside is when updating in the future you will have to redownload every mod.** 
 
 ### How to start up Dying Breath
 
-Head over to the installation folder, locate the .exe file `ModOrganizer.exe` and launch it. Once it launches, there will be a drop-down box on the upper right and a big run button right next to it. Ensure it is set to `F4SE` select it in the drop-down box, and then click the run button which. You have to run `F4SE` through Mod Organizer 2 in order to load the mods correctly as Mod Organizer handles some mods via VFS (Virtual File System).
+Once the installation is complete open the output folder and lauch **_ModOrganizer.exe_**. Check the top right corner and make sure F4SE is listed and click **_RUN_**
+_Always run F4SE through Mod Organizer_
 
-After making a new character in a new game, you will be immediately prompted to set your name and special stats. After this, select yes on the pop up asking about workshop setups, as this list needs extra time to initialize its scripts.
+Once you've made a new character you will set your name and choose your appropriate stats. Select **YES** on the popup to wait for workshop to finish setting up _(This is to allow time for scripts to run)_. You will then have a short intro coming out of the vault.
 
-Shortly after, you will be teleported to the top of the Vault 111 entrance.
-
-After this, you'll want to set up your MCM settings. 
+Next set up your MCM Settings. 
 
 ### IT IS IMPERATIVE YOU SET THESE UP TO GET THE INTENDED PLAY EXPERIENCE
 
-First, in the start menu, navigate to the MCM settings menu. Then click on the dropdown titled "MCM Settings", and then "MCM Settings Manager". Press Apply on the preset. Afterwards, you'll need to exit back into the game to select yes on a pop up regarding Legendary effects. Select yes on that pop up, then go back to the MCM settings manager and apply the rest of the settings. 
-
-Once this is done, Save and load your game, and you're good to go!
+Hit ESC to open the MENU and select the option **MCM Settings**. There may be a short delay while the settings a caching after that loads select the MCM settings manager and apply a preset. (I personally recommend the 3090 Hud)
+When finished Save, Load, and you may begin.
 
 </details>
 
 <details>
 <summary><h2>Updating the list</h2></summary>
 
-If Dying Breath receives an update, please check the Changelog before doing anything.
-
-**Wabbajack will delete all files that are not part of the Modlist when updating!**
-
-This means that if you added any of your own mods into the Modlist, they will be deleted. In the future we will provide details on how to prevent files from being deleted once the most common issues are fixes.
-
-Updating is like installing the modlist. You only have to make sure that you select the same paths and tick the _overwrite existing Modlist_ button (typically Wabbajack already selects the folders but it is recommended to make sure they're correct before continuing).
+If Dying Breath receives an update, follow the same steps as installation but be sure to tick the _overwrite existing Modlist_. **This will delete any files that have been added**
 
 
 </details>
@@ -107,7 +107,7 @@ Updating is like installing the modlist. You only have to make sure that you sel
 <details>
 <summary><h2>Known Issues</h2></summary>
     
-If you experience the infinite loading screen on a new game, wait 30 secons then hit ENTER, you may also press to skip the loading screen.
+If you experience the infinite loading screen on a new game, wait 30 secons then hit **ENTER**, you may also press **_T_**  to skip the loading screen.
     
 </details>
 
