@@ -107,7 +107,7 @@ If Dying Breath receives an update, follow the same steps as installation but be
 <details>
 <summary><h2>Known Issues</h2></summary>
     
-If you experience the infinite loading screen on a new game, wait 30 secons then hit **ENTER**, you may also press **_T_**  to skip the loading screen.
+If you experience the infinite loading screen on a new game, wait 30 seconds then hit **ENTER**, you may also press **_T_**  to skip the loading screen.
     
 </details>
 
