@@ -18,19 +18,19 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/OddlyMistaken/Dying-Breath/main/Vault%20111.png",
       "readme": "https://github.com/OddlyMistaken/Dying-Breath",
-      "download": "https://authored-files.wabbajack.org/DyingBreath.wabbajack_fe18804a-d944-4401-998d-e1fb604c7ddc",
+      "download": "https://authored-files.wabbajack.org/DyingBreath.wabbajack_b9192842-7a3b-4823-ac90-032c80c48215",
       "machineURL": "dyingbreath",
       "discordURL": "https://discord.com/invite/T3XQky6g9c"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "HVe4r8YacrY=",
-      "Size": 255442880,
-      "NumberOfArchives": 516,
-      "SizeOfArchives": 145533831802,
-      "NumberOfInstalledFiles": 82201,
-      "SizeOfInstalledFiles": 120273895557
+      "Hash": "45fW+1ybFZI=",
+      "Size": 255447887,
+      "NumberOfArchives": 518,
+      "SizeOfArchives": 145969480692,
+      "NumberOfInstalledFiles": 82211,
+      "SizeOfInstalledFiles": 120730475524
     },
-    "version": "1.0"
+    "version": "1.1"
   }
 ]
