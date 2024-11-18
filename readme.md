@@ -89,7 +89,7 @@ Once you've made a new character you will set your name and choose your appropri
 
 Next set up your MCM Settings. 
 
-### IT IS IMPERATIVE YOU SET THESE UP TO GET THE INTENDED PLAY EXPERIENCE
+### IMPORTANT SETUP INSTRUCTIONS
 
 Hit ESC to open the MENU and select the option **MCM Settings**. There may be a short delay while the settings a caching after that loads select the MCM settings manager and apply a preset. (I personally recommend the 3090 Hud)
 When finished Save, Load, and you may begin.
