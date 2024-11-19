@@ -85,7 +85,7 @@ You may delete the downloads folder in the location you set during installion to
 
 ### How to start up Dying Breath
 
-Once the installation is complete open the output folder and lauch **_ModOrganizer.exe_**. Check the top right corner and make sure "Dying Breath" is listed in the dropdown and click **_RUN_**
+Once the installation is complete open the output folder and launch **_ModOrganizer.exe_**. Check the top right corner and make sure "Dying Breath" is listed in the dropdown and click **_RUN_**
 _Always run Dying Breath through Mod Organizer_
 
 Once you've made a new character you will set your name and choose your appropriate stats. Select **YES** on the popup to wait for workshop to finish setting up _(This is to allow time for scripts to run)_. You will then have a short intro coming out of the vault.
