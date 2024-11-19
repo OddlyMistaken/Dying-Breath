@@ -72,6 +72,9 @@ If you recieve lots of errors while downloading please relogin into Nexus throug
 
 If you have issues with files not downloading, manually download the files and drop them inside of the Download folder, then re-run Wabbajack. When Wabbajack detects the correct file it will resume installation. 
 
+#### Files with known download issues
+Fallout 4 enb (V501) 
+
 </details>
 
 
