@@ -54,18 +54,18 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/OddlyMistaken/Viir-Su-um/main/ViirSu'um.png",
       "readme": "https://github.com/OddlyMistaken/Viir-Su-um",
-      "download": "https://authored-files.wabbajack.org/ViirSu'um.wabbajack_ae26dedd-1599-4735-a906-b86034146058",
+      "download": "https://authored-files.wabbajack.org/ViirSu'um.wabbajack_579d81a6-7c8e-4e5b-96fd-ed43695d3628",
       "machineURL": "ViirSuum",
       "discordURL": "https://discord.com/invite/T3XQky6g9c"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "Br3rAxVjvWc=",
-      "Size": 1779372749,
+      "Hash": "HyWnjOIglCo=",
+      "Size": 1779373188,
       "NumberOfArchives": 2155,
       "SizeOfArchives": 172652203563,
       "NumberOfInstalledFiles": 230046,
-      "SizeOfInstalledFiles": 244457956860
+      "SizeOfInstalledFiles": 244457955968
     },
     "version": "1.0"
   }
