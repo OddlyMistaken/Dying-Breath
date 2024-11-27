@@ -32,5 +32,41 @@
       "SizeOfInstalledFiles": 120730475524
     },
     "version": "1.1"
+  },
+   {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "ViirSuum",
+    "description": "A fresh new modlist with a vanilla feel featuring NGVO visuals thanks to BiggieBoss's beautiful modlist combined with new quests, locations, combat, and features with more to come. Based heavily off popular modlists with my own tweaks and slimmed down for a more simple experience.",
+    "author": "OddlyMistaken",
+    "maintainers": [
+      "github/OddlyMistaken"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "requiem",
+      "visuals",
+      "quests"
+    ],
+    "nsfw": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/OddlyMistaken/Viir-Su-um/main/ViirSu'um.png",
+      "readme": "https://github.com/OddlyMistaken/Viir-Su-um",
+      "download": "https://authored-files.wabbajack.org/ViirSu'um.wabbajack_ae26dedd-1599-4735-a906-b86034146058",
+      "machineURL": "ViirSuum",
+      "discordURL": "https://discord.com/invite/T3XQky6g9c"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "Br3rAxVjvWc=",
+      "Size": 1779372749,
+      "NumberOfArchives": 2155,
+      "SizeOfArchives": 172652203563,
+      "NumberOfInstalledFiles": 230046,
+      "SizeOfInstalledFiles": 244457956860
+    },
+    "version": "1.0"
   }
 ]
