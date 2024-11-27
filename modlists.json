@@ -24,12 +24,12 @@
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "vRfr6DWZKgs=",
-      "Size": 1779369854,
-      "NumberOfArchives": 2153,
-      "SizeOfArchives": 172553625893,
-      "NumberOfInstalledFiles": 230045,
-      "SizeOfInstalledFiles": 244457944498
+      "Hash": "45fW+1ybFZI=",
+      "Size": 255447887,
+      "NumberOfArchives": 518,
+      "SizeOfArchives": 145969480692,
+      "NumberOfInstalledFiles": 82211,
+      "SizeOfInstalledFiles": 120730475524
     },
     "version": "1.1"
   },
@@ -60,12 +60,12 @@
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "HyWnjOIglCo=",
-      "Size": 1779373188,
-      "NumberOfArchives": 2155,
-      "SizeOfArchives": 172652203563,
-      "NumberOfInstalledFiles": 230046,
-      "SizeOfInstalledFiles": 244457955968
+      "Hash": "vRfr6DWZKgs=",
+      "Size": 1779369854,
+      "NumberOfArchives": 2153,
+      "SizeOfArchives": 172553625893,
+      "NumberOfInstalledFiles": 230045,
+      "SizeOfInstalledFiles": 244457944498
     },
     "version": "1.0"
   }
