@@ -1,65 +1,68 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "DyingBreath",
     "description": "A fresh experience of Fallout 4. A whole new leveling system,new combat mechanics, new quests and locations, and hundreds of new weapons and armors replacing the originals in a lore friendly manner.",
     "author": "OddlyMistaken",
     "maintainers": [
       "github/OddlyMistaken"
     ],
-    "game": "Fallout4",
+    "game": "fallout4",
+    "official": false,
     "tags": [
       "testing"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/OddlyMistaken/Dying-Breath/main/Vault%20111.png",
       "readme": "https://github.com/OddlyMistaken/Dying-Breath",
-      "download": "https://authored-files.wabbajack.org/DyingBreath.wabbajack_b9192842-7a3b-4823-ac90-032c80c48215",
+      "download": "https://authored-files.wabbajack.org/DyingBreath.wabbajack_ea8fdb00-0ddc-4738-8a02-3c1999ca5e4c",
       "machineURL": "dyingbreath",
       "discordURL": "https://discord.com/invite/T3XQky6g9c"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "45fW+1ybFZI=",
-      "Size": 255447887,
-      "NumberOfArchives": 518,
-      "SizeOfArchives": 145969480692,
-      "NumberOfInstalledFiles": 82211,
-      "SizeOfInstalledFiles": 120730475524
+      "Hash": "JvMeeL3wCv8=",
+      "Size": 255597830,
+      "NumberOfArchives": 519,
+      "SizeOfArchives": 145992481807,
+      "NumberOfInstalledFiles": 82411,
+      "SizeOfInstalledFiles": 120710213775
     },
-    "version": "1.1"
+    "version": "1.1",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2024-12-01T16:44:54.1654015Z",
+    "repositoryName": ""
   },
-   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
+  {
     "title": "ViirSuum",
-    "description": "A fresh new modlist with a vanilla feel featuring NGVO visuals thanks to BiggieBoss's beautiful modlist combined with new quests, locations, combat, and features with more to come. Based heavily off popular modlists with my own tweaks and slimmed down for a more simple experience.",
+    "description": "A fresh new modlist with a vanilla feel featuring NGVO visuals thanks to BiggieBoss\u0027s beautiful modlist combined with new quests, locations, combat, and features with more to come. Based heavily off popular modlists with my own tweaks and slimmed down for a more simple experience.",
     "author": "OddlyMistaken",
     "maintainers": [
       "github/OddlyMistaken"
     ],
     "game": "skyrimspecialedition",
+    "official": false,
     "tags": [
       "requiem",
       "visuals",
       "quests"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/OddlyMistaken/Viir-Su-um/main/ViirSu'um.png",
+      "image": "https://raw.githubusercontent.com/OddlyMistaken/Viir-Su-um/main/ViirSu\u0027um.png",
       "readme": "https://github.com/OddlyMistaken/Viir-Su-um",
-      "download": "https://authored-files.wabbajack.org/ViirSu'um.wabbajack_8b3e7824-8322-45b1-b41d-47361323dc23",
+      "download": "https://authored-files.wabbajack.org/ViirSu\u0027um.wabbajack_8b3e7824-8322-45b1-b41d-47361323dc23",
       "machineURL": "ViirSuum",
       "discordURL": "https://discord.com/invite/T3XQky6g9c"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
       "Hash": "ubApS8bW7SI=",
       "Size": 1779369708,
       "NumberOfArchives": 2153,
@@ -67,6 +70,9 @@
       "NumberOfInstalledFiles": 230045,
       "SizeOfInstalledFiles": 244457944472
     },
-    "version": "1.0"
+    "version": "1.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "0001-01-01T00:00:00",
+    "repositoryName": ""
   }
 ]
