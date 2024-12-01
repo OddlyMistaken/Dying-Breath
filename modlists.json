@@ -58,21 +58,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/OddlyMistaken/Viir-Su-um/main/ViirSu\u0027um.png",
       "readme": "https://github.com/OddlyMistaken/Viir-Su-um",
-      "download": "https://authored-files.wabbajack.org/ViirSu\u0027um.wabbajack_f028fa28-69da-4990-9948-08365eb4a2c3",
+      "download": "https://authored-files.wabbajack.org/ViirSu\u0027um.wabbajack_b3c1938b-454d-4a4e-a437-c219dbed1ee5",
       "machineURL": "ViirSuum",
       "discordURL": "https://discord.com/invite/T3XQky6g9c"
     },
     "download_metadata": {
-      "Hash": "qcy8BSKZrsw=",
-      "Size": 1787701791,
+      "Hash": "yamrjOPnEnY=",
+      "Size": 1787701604,
       "NumberOfArchives": 2149,
       "SizeOfArchives": 172485092960,
-      "NumberOfInstalledFiles": 230361,
-      "SizeOfInstalledFiles": 244491649794
+      "NumberOfInstalledFiles": 230362,
+      "SizeOfInstalledFiles": 244491576958
     },
-    "version": "1.01",
+    "version": "1.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-12-01T17:18:55.148032Z",
+    "dateUpdated": "2024-12-01T20:09:00.3633395Z",
     "repositoryName": ""
   }
 ]
