@@ -1,8 +1,11 @@
 # Dying Breath
 ![alt text](https://raw.githubusercontent.com/OddlyMistaken/Dying-Breath/8e5c0d5273549b74e6364866e73a3bbd84a969ea/Vault%20111.png)
 
-For help or discussion of Dying Breath, please join our discord - https://discord.gg/T3XQky6g9c
+For help or discussion of Viir Su'um, please join our **[discord](https://discord.gg/T3XQky6g9c)**
 
+_This Readme is still in development check back for updated info_
+
+**[Modlist.txt](https://loadorderlibrary.com/lists/dying-breath)**
 ## Summary
 
 A fresh experience of Fallout 4. A whole new leveling system,new combat mechanics, new quests and locations, and hundreds of new weapons and armors replacing the originals in a lore friendly manner. 
