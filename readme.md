@@ -80,6 +80,8 @@ Fallout 4 enb (V501)
 
 </details>
 
+<details>
+<summary><h2>Game Instructions</h2></summary>
 
 ### Saving on disk space ***(Highly OPTIONAL)***
 
