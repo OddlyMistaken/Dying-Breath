@@ -16,7 +16,7 @@ A fresh experience of Fallout 4. A whole new leveling system,new combat mechanic
 <summary><h2>Installation</h2></summary>
 
 ### Pre-Installation
-For the Installation of Dying Breath you must use the most recent version of Fallout 4 on steam and download all DLC's (expect the Hi-res Texture Pack)
+For the Installation of Dying Breath you must use the most recent version of Fallout 4 on steam and download all DLC's (except the Hi-res Texture Pack)
 
 **This is only a requirment for the first install not when updating.**
 
