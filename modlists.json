@@ -15,7 +15,7 @@
     "utility_list": false,
     "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
+    "force_down": true,
     "links": {
       "image": "https://raw.githubusercontent.com/OddlyMistaken/Dying-Breath/main/Vault%20111.png",
       "readme": "https://github.com/OddlyMistaken/Dying-Breath",
