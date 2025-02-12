@@ -93,14 +93,25 @@ You may delete the downloads folder in the location you set during installion to
 Once the installation is complete open the output folder and launch **_ModOrganizer.exe_**. Check the top right corner and make sure "Dying Breath" is listed in the dropdown and click **_RUN_**
 _Always run Dying Breath through Mod Organizer and never click "UNLOCK"_
 
+### Profiles
+The List now comes with **two** profiles.                                                                                                                                      
+_By Default the Dying Breath Profile will be Selected_
+_There is now an optional Dying Breath - Open World Profile as well._                                                                                                                                          
+_This can be selected by locating the drop down currently filled with "Dying Breath" and selecting the Open World Profile_
+
 Once you've made a new character you will set your name and choose your appropriate stats. Select **YES** on the popup to wait for workshop to finish setting up _(This is to allow time for scripts to run)_. You will then have a short intro coming out of the vault.
 
 Next set up your MCM Settings. 
 
 ### IMPORTANT SETUP INSTRUCTIONS
 
-Hit ESC to open the MENU and select the option **MCM Settings**. There may be a short delay while the settings a caching after that loads select the MCM settings manager and apply a preset. (I personally recommend the 3090 Hud)
+Hit ESC to open the MENU and select the option **MCM Settings**. There may be a short delay while the settings a caching after that loads select the MCM settings manager and apply a preset according to the profile you selected in MO2.
 When finished Save, Load, and you may begin.
+
+_If selecting the "Dying Breath - Open World" Preset there is one additional step_
++ On the left hand side locate **"Common Wealth of Decay"** scroll to the bottom of its options to Start Up
++ Hit the Large Start button and Close the Menu
+ + This will take roughly 5 min to prepare the world, feel free to run around and explore the closest areas until another popup appears.
 
 </details>
 
@@ -111,6 +122,28 @@ If Dying Breath receives an update, follow the same steps as installation but be
 
 
 </details>
+
+
+<details>
+<summary><h2>Customization</h2></summary>
+ 
+_The only **supported** additional features are already included in the list, adding things yourself is not.
+### Overlays
+The List contains a _(soon to be)_ handful of Optional ENB Presents and LUTS Located at the bottom of the list under the seperator **Overlays**.
+_**Adding additional Presets/LUTS will still be considered editing the list.**_
++ If Selecting a LUT feel free to open the seperator and check one, this is all that needs to be done.
+
++ If Selecting an ENB First open the ENB CORE Seperator and ensure all of the mods contained are enabled
+  + Next Open a _"Preset - *"_ seperator and enable everything in that specific seperator **(Some Presets require multiple mods enabled to function)**
+### Optionals
+A select number of _"Optional Mods"_ have been included to add various features/improve performance.
+You can enable any number of these as you see fit.                                                                           
+_Be sure if a mod adds an .esp to the right side of MO2 in plugins that it is always loaded before **PRP.esp** if a specific placement is required it will be listed below_
+
+    
+    
+</details>
+
 
 <details>
 <summary><h2>Known Issues</h2></summary>
