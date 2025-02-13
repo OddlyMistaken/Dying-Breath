@@ -19,21 +19,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/OddlyMistaken/Dying-Breath/main/Vault%20111.png",
       "readme": "https://github.com/OddlyMistaken/Dying-Breath",
-      "download": "https://authored-files.wabbajack.org/DyingBreath.wabbajack_ec0df11e-d00c-4ef0-b3a6-6cdf191d9e22",
+      "download": "https://authored-files.wabbajack.org/DyingBreath.wabbajack_e6de4efc-9aa5-406d-a2db-e2e1fa2eab02",
       "machineURL": "dyingbreath",
       "discordURL": "https://discord.com/invite/T3XQky6g9c"
     },
     "download_metadata": {
-    "Hash": "+hXtH/tE8Ok=",
-    "Size": 250021819,
-    "NumberOfArchives": 500,
-    "SizeOfArchives": 139406675309,
-    "NumberOfInstalledFiles": 80790,
-    "SizeOfInstalledFiles": 120670308371
+      "Hash": "DQoehBGphFs=",
+      "Size": 1443816646,
+      "NumberOfArchives": 674,
+      "SizeOfArchives": 158262726495,
+      "NumberOfInstalledFiles": 87302,
+      "SizeOfInstalledFiles": 127368837966
     },
-    "version": "1.0",
+    "version": "1.2",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-12-01T16:44:54.1654015Z",
+    "dateUpdated": "2025-02-13T00:46:44.6600438Z",
     "repositoryName": ""
   },
   {
