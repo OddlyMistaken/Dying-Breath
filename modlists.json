@@ -60,23 +60,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/OddlyMistaken/Viir-Su-um/refs/heads/main/Splash.png",
       "readme": "https://github.com/OddlyMistaken/Viir-Su-um",
-      "download": "https://authored-files.wabbajack.org/Viir Su\u0027um.wabbajack_ef7a9c2f-00d4-43f8-bac3-aabc0d686f3c",
+      "download": "https://authored-files.wabbajack.org/Viir Su\u0027um.wabbajack_2da3656b-8745-4234-bef8-6eddd27a6043",
       "machineURL": "ViirSuum",
       "discordURL": "https://discord.com/invite/T3XQky6g9c",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "PenQEUqFvvY=",
-      "Size": 737973582,
-      "NumberOfArchives": 2117,
-      "SizeOfArchives": 126718486322,
-      "NumberOfInstalledFiles": 178621,
-      "SizeOfInstalledFiles": 166588391363,
-      "TotalSize": 293306877685
+      "Hash": "jtC3f0+TtEY=",
+      "Size": 738636370,
+      "NumberOfArchives": 2119,
+      "SizeOfArchives": 126718559483,
+      "NumberOfInstalledFiles": 178662,
+      "SizeOfInstalledFiles": 166597288676,
+      "TotalSize": 293315848159
     },
     "version": "1.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-06-11T16:08:27.7885041Z",
+    "dateUpdated": "2025-06-12T10:55:30.3171891Z",
     "repositoryName": ""
   }
 ]
