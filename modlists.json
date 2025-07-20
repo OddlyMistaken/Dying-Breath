@@ -1,7 +1,7 @@
 [
   {
     "title": "DyingBreath",
-    "description": "A **No Frills** Requiem list going back to the basics for a simple experience. Focusing on small immersive additions instead of major content for a vanilla style feel with increased difficulty and plans to expand Viir Su'um is back with a new vision!",
+    "description": "A **No Frills** Requiem list going back to the basics for a simple experience. Focusing on small immersive additions instead of major content for a vanilla style feel with increased difficulty and plans to expand Viir Su\u0027um is back with a new vision!",
     "author": "OddlyMistaken",
     "maintainers": [
       "github/OddlyMistaken"
@@ -62,23 +62,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/OddlyMistaken/Viir-Su-um/refs/heads/main/Splash.png",
       "readme": "https://github.com/OddlyMistaken/Viir-Su-um",
-      "download": "https://authored-files.wabbajack.org/Viir Su\u0027um.wabbajack_ac77a462-11ca-4112-868f-7af5c1016f84",
+      "download": "https://authored-files.wabbajack.org/Viir Su\u0027um.wabbajack_e5008199-2e90-40e3-9034-b7bb61337bb4",
       "machineURL": "ViirSuum",
       "discordURL": "https://discord.com/invite/T3XQky6g9c",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "fDYY9RMpoL0=",
-      "Size": 1184193247,
-      "NumberOfArchives": 2207,
-      "SizeOfArchives": 136910430521,
+      "Hash": "yyPDEFV4TJQ=",
+      "Size": 1221135896,
+      "NumberOfArchives": 2205,
+      "SizeOfArchives": 136884501892,
       "NumberOfInstalledFiles": 199246,
       "SizeOfInstalledFiles": 187934186867,
-      "TotalSize": 324844617388
+      "TotalSize": 324818688759
     },
     "version": "1.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-07-20T15:20:00.166368Z",
+    "dateUpdated": "2025-07-20T15:41:33.2259322Z",
     "repositoryName": ""
   }
 ]
