@@ -60,7 +60,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/OddlyMistaken/Viir-Su-um/refs/heads/main/Splash.png",
+      "image": "https://raw.githubusercontent.com/OddlyMistaken/Viir-Su-um/main/Splash.png",
       "readme": "https://github.com/OddlyMistaken/Viir-Su-um",
       "download": "https://authored-files.wabbajack.org/Viir Su\u0027um.wabbajack_e5008199-2e90-40e3-9034-b7bb61337bb4",
       "machineURL": "ViirSuum",
